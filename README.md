@@ -9,4 +9,7 @@ To run the project follow the steps
    localhost/finalproject-main/landing.php
 7) There are two mail ids for admin which can not be edited which are
    mohanram@gmail.com
-   pass- 
+   pass- 123456789
+   donthinagasai11376@gmail.com
+   pass- 123456789
+8) user account can be created from reegistration page 
